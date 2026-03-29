@@ -1,0 +1,196 @@
+{
+  "Part1_Memory": {
+    "episodic memory transformer neural network": [
+      {
+        "error": "The read operation timed out",
+        "query": "episodic memory transformer neural network"
+      }
+    ],
+    "working memory large language model": [
+      {
+        "error": "The read operation timed out",
+        "query": "working memory large language model"
+      }
+    ],
+    "memory consolidation neural network sleep replay": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "memory consolidation neural network sleep replay"
+      }
+    ],
+    "retrieval augmented generation memory robot": [
+      {
+        "error": "The read operation timed out",
+        "query": "retrieval augmented generation memory robot"
+      }
+    ],
+    "associative memory transformer attention": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "associative memory transformer attention"
+      }
+    ],
+    "hippocampal memory replay artificial intelligence": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "hippocampal memory replay artificial intelligence"
+      }
+    ],
+    "memory-augmented neural network continual learning": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "memory-augmented neural network continual learning"
+      }
+    ]
+  },
+  "Part2_Cognition": {
+    "human task decomposition cognitive science": [
+      {
+        "error": "The read operation timed out",
+        "query": "human task decomposition cognitive science"
+      }
+    ],
+    "cognitive architecture task planning robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "cognitive architecture task planning robot"
+      }
+    ],
+    "affordance perception cognitive development robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "affordance perception cognitive development robot"
+      }
+    ],
+    "schema theory motor learning robot": [
+      {
+        "error": "The read operation timed out",
+        "query": "schema theory motor learning robot"
+      }
+    ],
+    "predictive coding motor control robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "predictive coding motor control robot"
+      }
+    ],
+    "embodied cognition grounded language robot": [
+      {
+        "error": "The read operation timed out",
+        "query": "embodied cognition grounded language robot"
+      }
+    ],
+    "developmental learning robot manipulation": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "developmental learning robot manipulation"
+      }
+    ],
+    "infant object manipulation cognitive development": [
+      {
+        "error": "The read operation timed out",
+        "query": "infant object manipulation cognitive development"
+      }
+    ],
+    "mirror neuron system robot imitation learning": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "mirror neuron system robot imitation learning"
+      }
+    ]
+  },
+  "Part3_Neuroscience": {
+    "cerebellum model robot control forward model": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "cerebellum model robot control forward model"
+      }
+    ],
+    "basal ganglia reinforcement learning robot": [
+      {
+        "error": "The read operation timed out",
+        "query": "basal ganglia reinforcement learning robot"
+      }
+    ],
+    "prefrontal cortex working memory robot planning": [
+      {
+        "error": "The read operation timed out",
+        "query": "prefrontal cortex working memory robot planning"
+      }
+    ],
+    "predictive processing active inference robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "predictive processing active inference robot"
+      }
+    ],
+    "active inference robot manipulation": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "active inference robot manipulation"
+      }
+    ],
+    "free energy principle robot control": [
+      {
+        "error": "The read operation timed out",
+        "query": "free energy principle robot control"
+      }
+    ],
+    "hierarchical predictive coding robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "hierarchical predictive coding robot"
+      }
+    ]
+  },
+  "Part4_Novel_AI": {
+    "test time training adaptation robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "test time training adaptation robot"
+      }
+    ],
+    "in-context learning robot manipulation": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "in-context learning robot manipulation"
+      }
+    ],
+    "meta-learning robot few-shot manipulation": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "meta-learning robot few-shot manipulation"
+      }
+    ],
+    "curiosity driven exploration robot manipulation": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "curiosity driven exploration robot manipulation"
+      }
+    ],
+    "compositional generalization robot manipulation": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "compositional generalization robot manipulation"
+      }
+    ],
+    "neuro-symbolic robot planning": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "neuro-symbolic robot planning"
+      }
+    ],
+    "mixture of experts robot policy": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "mixture of experts robot policy"
+      }
+    ],
+    "foundation model adaptation continual learning robot": [
+      {
+        "error": "HTTP Error 429: Unknown Error",
+        "query": "foundation model adaptation continual learning robot"
+      }
+    ]
+  }
+}
